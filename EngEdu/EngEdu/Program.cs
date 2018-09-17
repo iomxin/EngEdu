@@ -12,6 +12,8 @@ namespace EngEdu
         {
             Console.WriteLine("Year 255x semeter 1 , i am an EngEdu freshman.");
             Console.WriteLine("Year 255x semeter 2, i learn to program in c sharp.");
+            Console.WriteLine("Year 2560 semeter 1, i have to regrade on some course.");
+
         }
     }
 }
